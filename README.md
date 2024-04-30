@@ -1,4 +1,4 @@
-# Buy-It
+# Apni Dukan
 
 ## Project setup
 
